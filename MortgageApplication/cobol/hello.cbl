@@ -4,6 +4,6 @@
       *hyeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
        PROCEDURE DIVISION.
            DISPLAY 'Hello def'.
-           DISPLAY '12345'
+           DISPLAY '12345bdxf'
            STOP RUN.
 
