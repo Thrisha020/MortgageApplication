@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
       *hyeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
        PROCEDURE DIVISION.
-           DISPLAY 'Hello ra'.
+           DISPLAY 'Hello r'.
            DISPLAY '12345bdxf'
            STOP RUN.
 
