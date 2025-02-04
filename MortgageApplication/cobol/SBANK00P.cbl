@@ -16,4 +16,4 @@
                10  FILLER        PIC X(10)  VALUE "END".
            05  BUFFER-ARRAY    REDEFINES BUFFER-DATA
                                OCCURS 4 TIMES
-                                 PIC X(10).
+                                 PIC X(10)
