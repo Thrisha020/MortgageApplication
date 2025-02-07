@@ -10,10 +10,10 @@
        01  INPUT-BUFFER-FIELDS.
            05  BUFFER-PTR        PIC 9.
            05  BUFFER-DATA.
-               10  FILLER        PIC X(10)  VALUE "123".
+               10  FILLER        PIC X(10)  VALUE "changes".
                10  FILLER        PIC X(10)  VALUE "PVALUE".
                10  FILLER        PIC X(10)  VALUE "pvalue".
                10  FILLER        PIC X(10)  VALUE "END".
            05  BUFFER-ARRAY    REDEFINES BUFFER-DATA
                                OCCURS 4 TIMES
-                                 PIC X(10)
+                                 PIC X(9)
