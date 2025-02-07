@@ -17,6 +17,6 @@
                 SELECT IBMREQD INTO: WS-SQLREAD
                 FROM SYSIBM.SYSDUMMY1
            END-EXEC.
-           Display 'Testing the cobDdb2'.
+           Display 'Paul's demo'.
 
            STOP RUN.
