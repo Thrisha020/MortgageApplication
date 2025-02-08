@@ -10,7 +10,7 @@
        01  INPUT-BUFFER-FIELDS.
            05  BUFFER-PTR        PIC 9.
            05  BUFFER-DATA.
-               10  FILLER        PIC X(10)  VALUE "new changes".
+               10  FILLER        PIC X(10)  VALUE "123".
                10  FILLER        PIC X(10)  VALUE "PVALUE".
                10  FILLER        PIC X(10)  VALUE "pvalue".
                10  FILLER        PIC X(10)  VALUE "END".
