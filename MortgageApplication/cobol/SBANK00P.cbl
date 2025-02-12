@@ -3,7 +3,7 @@
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
-       01  PARM-1.
+       01  PARM-1
            05  CALL-FEEDBACK     PIC XX.
        01  FIELDS
            05  INPUT-1           PIC X(10).
